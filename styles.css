@@ -1,0 +1,43 @@
+.thing{
+    background-color: slategray
+}
+
+.col-xl-6 {
+    margin-top: 2%
+  }
+
+.big-text {
+    color: floralwhite;
+    text-align: center
+}
+
+.white-line{
+    color: floralwhite;
+    border: 3px solid;
+}
+
+.light-text{
+    color: snow;
+    font-size: 12pt;
+}
+
+.thumbnail{
+    max-height: 40%;
+    max-width: 40%;
+    padding: 1em;
+}
+
+.fullimage{
+   margin: 0.1em;
+   padding: 00em;
+}
+
+.figure-caption{
+    color: snow;
+    font: 1.5em sans-serif;
+}
+
+.title{
+    color: snow;
+    text-align: center;
+}
